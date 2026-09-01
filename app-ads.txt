@@ -64,7 +64,7 @@ kidoz.net, 15614, RESELLER, a109366414b7335e
 triplelift.com, 13423, RESELLER, 6c33edb13117fd86
 display.io, 156748, RESELLER
 pubmatic.com, 167323, RESELLER, 5d62403b186f2ace
-yandex.com, 329900189, DIRECT
+yandex.com, 19779131, DIRECT
 my-cast.tv, 987137, RESELLER, 8c33fe1bd714ffd7
 tpmn.io, 663, RESELLER
 app-stock.com, 509221, RESELLER, ed8c126ea5971415
